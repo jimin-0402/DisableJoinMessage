@@ -1,0 +1,5 @@
+name: DisableJoinMessage
+main: kr.jimin.disableJoinMessage.DisableJoinMessage
+version: '${version}'
+api-version: 1.20
+author: Jimin_0402
